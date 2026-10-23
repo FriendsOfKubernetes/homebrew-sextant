@@ -1,8 +1,8 @@
 # Homebrew cask of Sextant, rendered by scripts/packaging.mjs from a published release (ADR-0104).
 # Do not edit the copy in the tap by hand: the release workflow overwrites it.
 cask "sextant" do
-  version "0.21.1"
-  sha256 "87298ebfccfd2bf03d4805ee9a3386a1fbff2ba74d54018b8a749deff6235b15"
+  version "0.22.0"
+  sha256 "c5e6819440273aabe3736861bd696be90128e2e5343df914ec29b18972dafbd7"
 
   url "https://github.com/FriendsOfKubernetes/sextant/releases/download/v#{version}/Sextant_#{version}_universal.dmg"
   name "Sextant"
